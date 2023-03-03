@@ -1,0 +1,4 @@
+git log
+git push
+git add .
+git  commit -m "message"
